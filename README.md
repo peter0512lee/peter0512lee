@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm JYL</h1>
-<h3 align="center">A CS Student from Taiwan</h3>
+# Hi 👋, I'm JYL
 
 ### Spotify Playing 🎧
-
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
 - 🌱 I’m currently learning **SwiftUI, Flutter**
