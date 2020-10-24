@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SwiftUI, Flutter**
 
-- 📝 I regulary write articles on [peter0512lee.github.io](peter0512lee.github.io)
+- 📝 I regulary write articles on [peter0512lee.github.io](https://peter0512lee.github.io/)
 
 - 📫 How to reach me **peter0512lee@gmail.com**
 
