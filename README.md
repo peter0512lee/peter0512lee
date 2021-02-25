@@ -19,7 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&show_icons=true&locale=en&layout=compact" alt="peter0512lee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&show_icons=true&locale=en" alt="peter0512lee" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&show_icons=true&locale=en" alt="peter0512lee" /></p>
 
 <a href='https://www.youtube.com/watch?v=072tU1tamd0'>
   <img src='hook.gif' />
