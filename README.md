@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/jie-ying-li-b43a1416b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jie-ying-li-b43a1416b" height="30" width="40" /></a>
 <a href="https://fb.com/peter0512lee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="peter0512lee" height="30" width="40" /></a>
 <a href="https://instagram.com/etiquette_ying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="etiquette_ying" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=072tU1tamd0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aaaaa" height="30" width="40" /></a>
+<a href="https://reurl.cc/zb6aYQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aaaaa" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&show_icons=true&locale=en&layout=compact" alt="peter0512lee" /></p>
