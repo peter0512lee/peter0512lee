@@ -3,7 +3,7 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
-- 🌱 I’m currently learning **php, Laravel, ReactJS**
+- 🌱 I’m currently learning **ReactJS, Pytorch**
 
 - 📝 I regulary write articles on [peter0512lee.github.io](https://peter0512lee.github.io/)
 
