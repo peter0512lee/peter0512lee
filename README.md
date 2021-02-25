@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&show_icons=true&locale=en" alt="peter0512lee" /></p>
 
-
+[![](http://img.youtube.com/vi/072tU1tamd0/0.jpg)](http://www.youtube.com/watch?v=072tU1tamd0 "About me")
 
 <!--
 **peter0512lee/peter0512lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
