@@ -16,7 +16,7 @@
 <a href="https://instagram.com/etiquette_ying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="etiquette_ying" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&card_width=10" alt="peter0512lee" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&card_width=1" alt="peter0512lee" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="peter0512lee" /></p>
 
 <br>
