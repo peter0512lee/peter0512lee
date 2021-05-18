@@ -16,11 +16,8 @@
 <a href="https://instagram.com/etiquette_ying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="etiquette_ying" height="30" width="40" /></a>
 </p>
 
-https://github-readme-stats.vercel.app/api?username=peter0512lee&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" alt="peter0512lee" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=300" alt="peter0512lee" /></p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=300" alt="peter0512lee" />
 <br>
 <br>
 <br>
