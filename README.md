@@ -16,14 +16,11 @@
 <a href="https://instagram.com/etiquette_ying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="etiquette_ying" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" alt="peter0512lee" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=300" alt="peter0512lee" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="peter0512lee" />
+
 <hr>
 
 <!--START_SECTION:waka-->
