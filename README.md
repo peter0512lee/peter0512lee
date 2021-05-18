@@ -17,7 +17,6 @@
 </p>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peter0512lee)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" alt="peter0512lee" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=300" alt="peter0512lee" /></p>
 
 <br>
