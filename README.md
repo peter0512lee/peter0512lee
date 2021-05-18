@@ -31,18 +31,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 126 Contributions in the Year 2021
- > 
-> 📦 440.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -84,22 +72,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in C++** 
-
-```text
-C++                      7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
-Jupyter Notebook         4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/peter0512lee/peter0512lee/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
