@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=22&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" alt="peter0512lee" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="peter0512lee" />
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
 - 🌱 I’m currently learning **ReactJS, Pytorch**
 
