@@ -2,6 +2,11 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" alt="peter0512lee" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" alt="peter0512lee" />
+
+
 - 🌱 I’m currently learning **ReactJS, Pytorch**
 
 - 📝 I regulary write articles on [peter0512lee.github.io](https://peter0512lee.github.io/)
