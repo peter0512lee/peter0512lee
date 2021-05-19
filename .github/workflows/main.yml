@@ -20,3 +20,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_EDITORS: "True"
+          SHOW_PROFILE_VIEWS: "False"
