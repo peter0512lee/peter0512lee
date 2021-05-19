@@ -20,11 +20,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=445" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
