@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=22&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
 
-<h3 align="left">Spotify Playing 🎧</h3>
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="right" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
-- 🌱 I’m currently learning **ReactJS, Pytorch**
+- 🌱 I’m currently learning **Deep Learning, Computer Vision, Pytorch**
 
 - 📝 I regulary write articles on [peter0512lee.github.io](https://peter0512lee.github.io/)
 
