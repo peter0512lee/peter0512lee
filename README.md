@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/peter0512lee/peter0512lee)](https://badges.pufler.dev)
+![](https://komarev.com/ghpvc/?username=peter0512lee&color=ff69b4)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=22&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
 
