@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **peter0512lee@gmail.com**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jie-ying-li-b43a1416b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jie-ying-li-b43a1416b" height="30" width="40" /></a>
@@ -28,8 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
