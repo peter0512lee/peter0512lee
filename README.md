@@ -24,7 +24,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=445" align="left" style="width: 100%" height="100" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=445" align="left" style="width: 100%" height="100%" />
 
 </td></tr></table>  
 
