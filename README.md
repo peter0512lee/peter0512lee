@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/peter0512lee)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=22&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
 
 ### Spotify Playing 🎧
