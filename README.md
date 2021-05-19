@@ -19,13 +19,17 @@
 <a href="https://instagram.com/etiquette_ying" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="etiquette_ying" height="30" width="40" /></a>
 </p>
 
-<hr>
+<table><tr><td valign="top" width="50%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" alt="peter0512lee" />
+<img src="https://github-readme-stats.vercel.app/api?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en" align="left" style="width: 100%" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact&card_width=445" alt="peter0512lee" />
+</td><td valign="top" width="50%">
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=peter0512lee&theme=vue-dark&show_icons=true&locale=en&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
