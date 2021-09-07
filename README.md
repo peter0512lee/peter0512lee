@@ -58,21 +58,21 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-0-9                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 04/09/2021
+ Last Updated on 07/09/2021
 <!--END_SECTION:waka-->
 
 
