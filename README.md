@@ -81,7 +81,7 @@ Mac                      1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 10/09/2021
+ Last Updated on 11/09/2021
 <!--END_SECTION:waka-->
 
 
