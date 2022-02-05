@@ -58,22 +58,21 @@ Sunday       12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   6 mins              ████████████████████████░   96.37% 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-NTU_RGB+D                6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 04/02/2022 00:21:04 UTC
+ Last Updated on 05/02/2022 00:17:41 UTC
 <!--END_SECTION:waka-->
 
 
