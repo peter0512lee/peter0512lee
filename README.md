@@ -29,7 +29,7 @@
 </td></tr></table>  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-927%20hrs%206%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -80,7 +80,7 @@ Mac                      0 secs              █████░░░░░░�
 ```
 
 
- Last Updated on 22/12/2022 00:32:12 UTC
+ Last Updated on 23/12/2022 00:31:26 UTC
 <!--END_SECTION:waka-->
 
 
