@@ -60,21 +60,21 @@ Sunday          15 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   18 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+EgoGestureV2             18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 13/02/2023 00:35:50 UTC
+ Last Updated on 14/02/2023 00:35:07 UTC
 <!--END_SECTION:waka-->
 
 
