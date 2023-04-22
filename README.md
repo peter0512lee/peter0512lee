@@ -4,7 +4,7 @@
 
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="right" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision, PyTorch**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📝 I regulary write articles on [peter0512lee.github.io](https://peter0512lee.github.io/)
 
