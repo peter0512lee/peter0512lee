@@ -8,7 +8,7 @@
 
 - 💻 GSR @MISLab🍀
 
-- 💻 SWE Intern @TrunkStudio
+- 💻 SWE Intern @Monosparta
 
 - 🎓 NTHU ISA 2021 MS
 
