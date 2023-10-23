@@ -10,9 +10,9 @@
 
 - 💻 SWE Intern @Monosparta
 
-- 🎓 NTHU ISA 2021 MS
+- 🎓 NTHU ISA 2021 M.S.
 
-- 🎓 YZU CS 2017 BS
+- 🎓 YZU CS 2017 B.S.
 
 - 📫 How to reach me **peter0512lee@gmail.com**
 
