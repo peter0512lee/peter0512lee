@@ -16,7 +16,7 @@
 ## LeetCode
 ![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark&ext=contest)
 
-### Skills
+## Skills
 [![Programming](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
 
 [![DL](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
