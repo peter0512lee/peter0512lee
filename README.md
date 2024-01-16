@@ -4,23 +4,33 @@
 
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="right" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
-- 💻 GSR @MISLab🍀
+📫 **peter0512lee@gmail.com**
 
-- 💻 SWE Intern @Monosparta
+## Experience
+- 🧑🏻‍💻 Data Engineer in [TSMC](https://www.tsmc.com/)
+- 🧑🏻‍💻 Software Engineer in [NeuinX](https://neuinx.com/)
+- 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
+- 🧑🏻‍💻 SWE Intern in [Monosparta](https://monosparta.org/)
 
+## Education
 - 🎓 NTHU ISA 2021 M.S.
 
-- 🎓 YZU CS 2017 B.S.
-
-- 📫 How to reach me **peter0512lee@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/jie-ying-li-b43a1416b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://medium.com/@peter0512lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@peter0512lee" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@peter0512lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@peter0512lee" height="30" width="40" /></a> -->
 <!-- <a href="https://fb.com/peter0512lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peter0512lee" height="30" width="40" /></a> -->
 <!-- <a href="https://instagram.com/etiquette_ying" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="etiquette_ying" height="30" width="40" /></a> -->
 </p>
+
+### Skills
+[![Programming](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
+
+[![DL](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
+
+[![Web](https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,vite,firebase,sqlite,mysql,mongodb)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode,postman)](https://skillicons.dev)
 
 <table><tr><td valign="top" width="50%">
 
