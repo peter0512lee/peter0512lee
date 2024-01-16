@@ -25,6 +25,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,vscode,postman)](https://skillicons.dev)
 
+<!--
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=peter0512lee&hide_border=true&show_icons=true&locale=en&layout=compact&theme=dracula" align="left" style="width: 100%" />
@@ -34,6 +35,9 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=peter0512lee&hide_border=true&show_icons=true&locale=en&layout=compact&theme=dracula" align="left" style="width: 100%" />
 
 </td></tr></table>  
+-->
+
+## WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2051%20mins-blue)
