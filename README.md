@@ -13,6 +13,9 @@
 ## Education
 - 🎓 NTHU ISA 2021 M.S.
 
+## LeetCode
+![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark&ext=contest)
+
 ### Skills
 [![Programming](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
 
