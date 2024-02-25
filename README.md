@@ -69,17 +69,17 @@ Sunday                   36 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/02/2024 00:27:31 UTC
+ Last Updated on 25/02/2024 00:31:57 UTC
 <!--END_SECTION:waka-->
 
 
