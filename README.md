@@ -5,7 +5,8 @@
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="right" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
 ## Experience
-- 🧑🏻‍💻 Data Engineer in [TSMC](https://www.tsmc.com/)
+- 🧑🏻‍💻 AI Algorithm Engineer in [OmniEyes](https://www.theomnieyes.com/)
+- 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/)
 - 🧑🏻‍💻 Software Engineer in [NeuinX](https://neuinx.com/)
 - 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
 - 🧑🏻‍💻 SWE Intern in [Monosparta](https://monosparta.org/)
