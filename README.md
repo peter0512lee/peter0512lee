@@ -41,7 +41,7 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2022%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,7 +84,7 @@ Mac                      3 hrs 50 mins       ███████████�
 ```
 
 
- Last Updated on 29/03/2024 00:29:41 UTC
+ Last Updated on 30/03/2024 00:28:48 UTC
 <!--END_SECTION:waka-->
 
 
