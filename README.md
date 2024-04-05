@@ -4,18 +4,16 @@
 
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="right" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
+![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=peter0512lee&theme=github)
+
 ## Experience
 - 🧑🏻‍💻 AI Algorithm Engineer in [OmniEyes](https://www.theomnieyes.com/)
 - 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/)
 - 🧑🏻‍💻 Software Engineer in [NeuinX](https://neuinx.com/)
 - 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
 - 🧑🏻‍💻 SWE Intern in [Monosparta](https://monosparta.org/)
-
-## Education
 - 🎓 NTHU ISA 2021 M.S.
-
-## LeetCode
-![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark&ext=contest)
 
 ## Skills
 [![Programming](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
@@ -37,8 +35,6 @@
 
 </td></tr></table>  
 -->
-
-## WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2050%20mins-blue)
