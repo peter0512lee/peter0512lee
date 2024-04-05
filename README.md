@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=peter0512lee&color=ff69b4)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=22&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=20&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
 
 [<img src="https://spotify-now-playing.peter0512lee.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" align="right" />](https://open.spotify.com/user/21iyoswqgnkoe7peuesmqnhgy)
 
