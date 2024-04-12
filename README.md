@@ -16,13 +16,15 @@
 - 🎓 NTHU ISA 2021 M.S.
 
 ## Skills
-[![Programming](https://skillicons.dev/icons?i=py,cpp,js,kotlin)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=py,kotlin,js)](https://skillicons.dev)
 
-[![DL](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
+[![ML](https://skillicons.dev/icons?i=pytorch,opencv,sklearn)](https://skillicons.dev)
 
-[![Web](https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,vite,firebase,sqlite,mysql,mongodb)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,vite)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,kubernetes,linux,vscode,postman)](https://skillicons.dev)
+[![DB](https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker,kubernetes,vscode,postman,anaconda,androidstudio)](https://skillicons.dev)
 
 <!--
 <table><tr><td valign="top" width="50%">
