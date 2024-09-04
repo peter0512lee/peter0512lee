@@ -9,11 +9,11 @@
 
 ## Experience
 - 🧑🏻‍💻 AI Algorithm Engineer in [OmniEyes](https://www.theomnieyes.com/)
-- 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/)
+- 🧑🏻‍💻 Data Engineer in [TSMC](https://www.tsmc.com/)
 - 🧑🏻‍💻 Software Engineer in [NeuinX](https://neuinx.com/)
 - 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
-- 🧑🏻‍💻 SWE Intern in [Monosparta](https://monosparta.org/)
 - 🎓 NTHU ISA 2021 M.S.
+- 🎓 YZU CSE 2017 B.S.
 
 ## Skills
 [![Programming](https://skillicons.dev/icons?i=cpp,py,kotlin)](https://skillicons.dev)
