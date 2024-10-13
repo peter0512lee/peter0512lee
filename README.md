@@ -8,7 +8,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=peter0512lee&theme=github)
 
 ## Experience
-- 🧑🏻‍💻 AI Algorithm Engineer in [OmniEyes](https://www.theomnieyes.com/)
+- 🧑🏻‍💻 Software Engineer in [OmniEyes](https://www.theomnieyes.com/)
 - 🧑🏻‍💻 Data Engineer in [TSMC](https://www.tsmc.com/)
 - 🧑🏻‍💻 Software Engineer in [NeuinX](https://neuinx.com/)
 - 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
