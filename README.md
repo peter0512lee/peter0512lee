@@ -7,11 +7,13 @@
 ![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=peter0512lee&theme=github)
 
-## Experience
+## Work Experience
 - 🧑🏻‍💻 Software Engineer in [OmniEyes](https://www.theomnieyes.com/)
-- 🧑🏻‍💻 Data Engineer in [TSMC](https://www.tsmc.com/)
+- 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/)
 - 🧑🏻‍💻 Software Engineer in [NeuinX](https://neuinx.com/)
 - 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
+
+## Education
 - 🎓 NTHU ISA 2021 M.S.
 - 🎓 YZU CSE 2017 B.S.
 
