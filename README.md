@@ -14,8 +14,8 @@
 - 🧑🏻‍💻 Research Assistant in [NTHU-MISLab](https://mislab.cs.nthu.edu.tw/)
 
 ## Education
-- 🎓 NTHU ISA 2021 M.S.
-- 🎓 YZU CSE 2017 B.S.
+- 🎓 NTHU ISA M.S. 2021-2023
+- 🎓 YZU CSE B.S. 2017-2021
 
 ## Skills
 [![Programming](https://skillicons.dev/icons?i=cpp,py,kotlin)](https://skillicons.dev)
