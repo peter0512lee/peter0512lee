@@ -72,17 +72,19 @@ Sunday                   140 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   28 mins             █████████████████████████   99.98 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           28 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/02/2025 00:41:03 UTC
+ Last Updated on 04/02/2025 00:39:53 UTC
 <!--END_SECTION:waka-->
 
 
