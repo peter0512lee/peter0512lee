@@ -43,8 +43,6 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%205%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -72,17 +70,17 @@ Sunday                   140 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Kotlin                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/02/2025 00:39:56 UTC
+ Last Updated on 16/02/2025 00:44:23 UTC
 <!--END_SECTION:waka-->
 
 
