@@ -8,7 +8,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=peter0512lee&theme=github)
 
 ## Work Experience
-- 🧑🏻‍💻 AI/ML Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html)
+- 🧑🏻‍💻 Software Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html)
 - 🧑🏻‍💻 Software Engineer in [OmniEyes](https://www.theomnieyes.com/)
 - 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/)
 
