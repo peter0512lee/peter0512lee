@@ -8,9 +8,9 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=peter0512lee&theme=github)
 
 ## Work Experience
-- 🧑🏻‍💻 Software Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html)
-- 🧑🏻‍💻 Software Engineer in [OmniEyes](https://www.theomnieyes.com/)
-- 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/)
+- 🧑🏻‍💻 Software Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html), 2025.02 ~ Present
+- 🧑🏻‍💻 Software Engineer in [OmniEyes](https://www.theomnieyes.com/), 2024.02 ~ 2025.02
+- 🧑🏻‍💻 Software Engineer in [TSMC](https://www.tsmc.com/), 2023.11 ~ 2024.02
 
 ## Education
 - 🎓 NTHU ISA M.S. 2021-2023
