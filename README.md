@@ -42,7 +42,7 @@
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C511%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -81,7 +81,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2026 00:57:11 UTC
+ Last Updated on 06/01/2026 00:52:35 UTC
 <!--END_SECTION:waka-->
 
 
