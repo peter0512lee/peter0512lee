@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F742BA&size=20&lines=Hi!+I'm+JYL)](https://git.io/typing-svg)
 
 ![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark)
-![](https://github-readme-activity-graph.vercel.app/graph?username=peter0512lee&theme=github)
 
 ## Work Experience
 - 🧑🏻‍💻 Software Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html), 2025 ~ Present
