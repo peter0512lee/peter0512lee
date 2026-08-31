@@ -11,6 +11,3 @@
 ## Education
 - 🎓 NTHU ISA M.S. 2021-2023
 - 🎓 YZU CSE B.S. 2017-2021
-
-## Skills
-[![Programming](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
