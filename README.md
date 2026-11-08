@@ -5,8 +5,9 @@
 ![](https://leetcard.jacoblin.cool/peter0512lee?theme=dark)
 
 ## Work Experience
-- 🧑🏻‍💻 Software Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html), 2025 ~ Present
-- 🧑🏻‍💻 Software Engineer in [OmniEyes](https://www.theomnieyes.com/), 2024 ~ 2025
+- 🧑🏻‍💻 AI Software Engineer in [MediaTek](https://www.mediatek.com/), 2026.10 ~ Present
+- 🧑🏻‍💻 AI Software Engineer in [TrendMicro](https://www.trendmicro.com/en_us/business.html), 2025.02 ~ 2026.10
+- 🧑🏻‍💻 AI Software Engineer in [OmniEyes](https://www.theomnieyes.com/), 2024.02 ~ 2025.02
 
 ## Education
 - 🎓 NTHU ISA M.S. 2021-2023
